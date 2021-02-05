@@ -1,0 +1,16 @@
+D:\.Net\WebApplication\Persistance\Persistance\obj\Debug\netstandard2.0\Persistance.csprojAssemblyReference.cache
+D:\.Net\WebApplication\Persistance\Persistance\obj\Debug\netstandard2.0\Persistance.AssemblyInfoInputs.cache
+D:\.Net\WebApplication\Persistance\Persistance\obj\Debug\netstandard2.0\Persistance.AssemblyInfo.cs
+D:\.Net\WebApplication\Persistance\Persistance\obj\Debug\netstandard2.0\Persistance.csproj.CoreCompileInputs.cache
+D:\.Net\WebApplication\Persistance\Persistance\bin\Debug\netstandard2.0\Persistance.deps.json
+D:\.Net\WebApplication\Persistance\Persistance\bin\Debug\netstandard2.0\Persistance.dll
+D:\.Net\WebApplication\Persistance\Persistance\bin\Debug\netstandard2.0\Persistance.pdb
+D:\.Net\WebApplication\Persistance\Persistance\bin\Debug\netstandard2.0\Entities.dll
+D:\.Net\WebApplication\Persistance\Persistance\bin\Debug\netstandard2.0\Infrastructure.dll
+D:\.Net\WebApplication\Persistance\Persistance\bin\Debug\netstandard2.0\Entities.pdb
+D:\.Net\WebApplication\Persistance\Persistance\bin\Debug\netstandard2.0\Infrastructure.pdb
+D:\.Net\WebApplication\Persistance\Persistance\obj\Debug\netstandard2.0\Persistance.csproj.CopyComplete
+D:\.Net\WebApplication\Persistance\Persistance\obj\Debug\netstandard2.0\Persistance.dll
+D:\.Net\WebApplication\Persistance\Persistance\obj\Debug\netstandard2.0\Persistance.pdb
+D:\.Net\WebApplication\Persistance\Persistance\bin\Debug\netstandard2.0\DataPersistance.dll
+D:\.Net\WebApplication\Persistance\Persistance\bin\Debug\netstandard2.0\DataPersistance.pdb

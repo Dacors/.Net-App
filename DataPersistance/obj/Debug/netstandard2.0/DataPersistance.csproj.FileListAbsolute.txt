@@ -1,0 +1,12 @@
+D:\.Net\WebApplication\DataPersistance\bin\Debug\netstandard2.0\DataPersistance.deps.json
+D:\.Net\WebApplication\DataPersistance\bin\Debug\netstandard2.0\DataPersistance.dll
+D:\.Net\WebApplication\DataPersistance\bin\Debug\netstandard2.0\DataPersistance.pdb
+D:\.Net\WebApplication\DataPersistance\obj\Debug\netstandard2.0\DataPersistance.csprojAssemblyReference.cache
+D:\.Net\WebApplication\DataPersistance\obj\Debug\netstandard2.0\DataPersistance.AssemblyInfoInputs.cache
+D:\.Net\WebApplication\DataPersistance\obj\Debug\netstandard2.0\DataPersistance.AssemblyInfo.cs
+D:\.Net\WebApplication\DataPersistance\obj\Debug\netstandard2.0\DataPersistance.csproj.CoreCompileInputs.cache
+D:\.Net\WebApplication\DataPersistance\obj\Debug\netstandard2.0\DataPersistance.dll
+D:\.Net\WebApplication\DataPersistance\obj\Debug\netstandard2.0\DataPersistance.pdb
+D:\.Net\WebApplication\DataPersistance\bin\Debug\netstandard2.0\Entities.dll
+D:\.Net\WebApplication\DataPersistance\bin\Debug\netstandard2.0\Entities.pdb
+D:\.Net\WebApplication\DataPersistance\obj\Debug\netstandard2.0\DataPersistance.csproj.CopyComplete

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/vT8Qdgx8CGjJQzxBZlI1uEJ42bAxv8xRYijdV/I1s/B4yPk2aqXEkwihHVX8y70bnd40zCx6nyLCFDomlO1PQ==",
+  "success": true,
+  "projectFilePath": "D:\\.Net\\WebApplication\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dacor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dacor\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

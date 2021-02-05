@@ -1,0 +1,9 @@
+D:\.Net\WebApplication\Migrations\bin\Debug\netstandard2.0\Migrations.deps.json
+D:\.Net\WebApplication\Migrations\bin\Debug\netstandard2.0\Migrations.dll
+D:\.Net\WebApplication\Migrations\bin\Debug\netstandard2.0\Migrations.pdb
+D:\.Net\WebApplication\Migrations\obj\Debug\netstandard2.0\Migrations.AssemblyInfoInputs.cache
+D:\.Net\WebApplication\Migrations\obj\Debug\netstandard2.0\Migrations.AssemblyInfo.cs
+D:\.Net\WebApplication\Migrations\obj\Debug\netstandard2.0\Migrations.csproj.CoreCompileInputs.cache
+D:\.Net\WebApplication\Migrations\obj\Debug\netstandard2.0\Migrations.dll
+D:\.Net\WebApplication\Migrations\obj\Debug\netstandard2.0\Migrations.pdb
+D:\.Net\WebApplication\Migrations\obj\Debug\netstandard2.0\Migrations.csprojAssemblyReference.cache

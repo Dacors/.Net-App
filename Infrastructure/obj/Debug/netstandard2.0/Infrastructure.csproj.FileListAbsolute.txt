@@ -1,0 +1,12 @@
+D:\.Net\WebApplication\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.deps.json
+D:\.Net\WebApplication\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.dll
+D:\.Net\WebApplication\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.pdb
+D:\.Net\WebApplication\Infrastructure\bin\Debug\netstandard2.0\Entities.dll
+D:\.Net\WebApplication\Infrastructure\bin\Debug\netstandard2.0\Entities.pdb
+D:\.Net\WebApplication\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csprojAssemblyReference.cache
+D:\.Net\WebApplication\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfoInputs.cache
+D:\.Net\WebApplication\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfo.cs
+D:\.Net\WebApplication\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\.Net\WebApplication\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CopyComplete
+D:\.Net\WebApplication\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.dll
+D:\.Net\WebApplication\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.pdb

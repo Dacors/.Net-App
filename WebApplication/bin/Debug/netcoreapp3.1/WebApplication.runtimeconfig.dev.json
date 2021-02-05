@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dacor\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dacor\\.nuget\\packages"
+    ]
+  }
+}
